@@ -7,6 +7,7 @@ This is a implementation of [TTMR++](#)(Enriching Music Descriptions with a Fine
 > SeungHeon Doh, Minhee Lee, Dasaem Jeong and Juhan Nam 
 > IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 
  -->
+> 모델에 관한 자세한 설명은 [최종 발표 슬라이드](https://docs.google.com/presentation/d/1JzoVWzqFVYNkx6XQRSdILHz0U5Dt4oICPWp7WAYOvUY/edit?usp=sharing)를 참조해주세요.
 
 # Installation
 
